@@ -13,7 +13,7 @@ Collaborator @https://github.com/justHungryMan
 > 2주차 (9/23)
 - Least Squares Problem 소개 **(O)**
 - Least Squares와 그 기하학적 의미 **(O)**
-- 정규방정식
+- 정규방정식 **(O)**
 
 > 3주차 
 - Orthogonal Projection I 
