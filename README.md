@@ -5,14 +5,14 @@ Introduction to Linear Algebra
 Collaborator @https://github.com/justHungryMan
 
 > 1주차 (8/30)
-- 부분공간의 기저와 차원
-- 선형변환
-- 선형변환 with Neural Networks
-- 전사함수와 일대일 함수
+- 부분공간의 기저와 차원** (O)**
+- 선형변환 ** (O)**
+- 선형변환 with Neural Networks ** (O)**
+- 전사함수와 일대일 함수** (O)**
 
-> 2주차 (9/6)
-- Least Squares Problem 소개
-- Least Squares와 그 기하학적 의미
+> 2주차 (9/23)
+- Least Squares Problem 소개** (O)**
+- Least Squares와 그 기하학적 의미** (O)**
 - 정규방정식
 
 > 3주차 
