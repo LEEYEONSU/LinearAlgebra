@@ -16,8 +16,8 @@ Collaborator @https://github.com/justHungryMan
 - 정규방정식 **(O)**
 
 > 3주차 
-- Orthogonal Projection I 
-- Orthogonal Projection II
+- Orthogonal Projection I **(O)**
+- Orthogonal Projection II**(O)**
 - 그람-슈미트 직교화의 QR 분해
 
 > 4주차 
